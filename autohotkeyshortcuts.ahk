@@ -3,6 +3,8 @@
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
+;this is an example of the power of AutoHotKey.
+
 :*:bb::"<br>" + "<br>")
 :*:hh:: <html> `n <head>`n <script type ="text/javascript"> `n `n </script> `n <body> `n <h2>heading</h2> `n `n <script> `n `n </script> `n </body> `n </html>
 :*:hw:: "hello world!"
